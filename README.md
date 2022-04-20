@@ -2,6 +2,8 @@
 
 This repo contains the files that make up the Trackmania skin mod for F-Klubben at Aalborg University.
 
+![Exampl01](https://imgur.com/8ZpFPqF.png)
+
 ## How to use
 
 ### Textures
